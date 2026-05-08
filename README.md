@@ -1,2 +1,2 @@
 # bryancerezo.github.io
-My personal portfolio, updated every once in a while.
+My personal portfolio, updated every once in a while. 
