@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react()],
   // If your site is at username.github.io/repo-name/, 
   // set base to '/repo-name/'. If using a custom domain, use '/'
-  base: '/bryancerezo.github.io/', 
+  base: '/https://github.com/bryancerezo/bryancerezo.github.io/', 
 })
