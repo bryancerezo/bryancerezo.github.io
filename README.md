@@ -1,15 +1,15 @@
 # Bryan Cerezo - Personal Portfolio
 
-A clean, responsive, and modern personal portfolio website showcasing experience in **Solutions Architecture**, **Product Management**, and **Technical Design**.
+A clean, responsive, and modern personal portfolio website showcasing my experience in **Solutions Architecture**, **Product Management**, and **Technical Design**.
 
-Built with pure HTML5 and styled with Tailwind CSS, the site features dark mode support, organized core competencies, and a responsive layout tailored for all device sizes.
+Built with pure HTML5 and styled with Tailwind CSS, the site features dark mode support and a responsive layout tailored for all device sizes.
 
 ---
 
 ## 🌟 Key Features
 
 * **Dark / Light Mode Toggle:** Supports dynamic theme switching with automated profile image swapping (`image-light.png` / `image-dark.png`).
-* **Structured Core Competencies:** Categorized, bulleted breakdown covering Product Leadership, Solutions Architecture, Engineering/DevOps, and Business Alignment.
+* **Structured Core Competencies:** Categorized, bulleted breakdown.
 * **Fully Responsive:** Optimized across mobile, tablet, and desktop viewports using Tailwind's utility-first breakpoints.
 * **Micro-Interactions & Styling:** Hover effects, smooth transitions, and backdrop blurs for a sleek UI experience.
 * **Zero Build Overhead:** Runs directly in any web browser without needing compilation, bundlers, or package installations.
